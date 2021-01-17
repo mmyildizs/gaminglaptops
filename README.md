@@ -73,7 +73,7 @@ linklerinin gösterip göstermediği kontrol edilmelidir.
 
 # Sonuç:
 
-
+![odevs](https://user-images.githubusercontent.com/49499843/104849634-e495f300-58fb-11eb-9c5d-b8ad5d648b19.gif)
 
 
 
