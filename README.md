@@ -1,17 +1,12 @@
-# İsim-Soyadı:
-Mirhat Metin YILDIZ
+İsim-Soyadı: Mirhat Metin YILDIZ
 
-# OkulNo:
-170201017
+OkulNo: 170201017
 
-# Bölüm:
-Bilgisayar Mühendisliği
+Bölüm: Bilgisayar Mühendisliği
 
-# Üniversite-Fakülte:
-Kocaeli Üniversitesi-Mühendislik
+Üniversite-Fakülte: Kocaeli Üniversitesi-Mühendislik
 
-# Ders:
-İnternet Programcılığı - Uğur YILDIZ
+Ders: İnternet Programcılığı - Uğur YILDIZ
 
 # gaminglaptops 
 
