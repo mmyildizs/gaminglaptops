@@ -73,7 +73,13 @@ linklerinin gösterip göstermediği kontrol edilmelidir.
 
 # Sonuç:
 
+Ek-1(Model Ekleme-Modeladedi güncellemesi)
+
 ![odevs](https://user-images.githubusercontent.com/49499843/104849634-e495f300-58fb-11eb-9c5d-b8ad5d648b19.gif)
+
+Ek-2(Marka Ekleme-Modeladedi güncellemesi)
+
+![odevs2](https://user-images.githubusercontent.com/49499843/105207234-54a0b500-5b58-11eb-95d3-98a59962a249.gif)
 
 
 
